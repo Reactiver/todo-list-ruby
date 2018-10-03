@@ -14,4 +14,6 @@ development:
 
 production:
   <<: *default
-  database: todo_production
+  database: d9t5ih79khaem1
+  username: bjcegyaklqdqcn
+  password: e5b57e10e7a5b82b3068ea499f0ac2e6776a15b00b673a9065f737b5d68fbf14
